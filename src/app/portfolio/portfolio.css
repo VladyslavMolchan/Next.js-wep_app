@@ -1,0 +1,8 @@
+.portfolio-item:hover .portfolio-description .title {
+  color: #53c28b;
+}
+  
+  .item {
+    transition: background-color 0.3s;
+  }
+ 
